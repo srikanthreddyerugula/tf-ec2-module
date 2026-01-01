@@ -10,3 +10,6 @@ resource "aws_instance" "this" {
 
 # General ga use chestunnnaru so we need use "this" syntax not a mandatory just for 
 # understand purpose
+
+
+# test file name is roboshop-ec2-test see there for results
