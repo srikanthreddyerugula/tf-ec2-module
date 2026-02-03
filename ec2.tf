@@ -1,4 +1,4 @@
-resource "aws_instance" "this" {
+resource "aws_instance" "this" {    # ses-34 
   ami           = var.ami_id  # manadatory
   instance_type = var.instace_moduletype  # manadatory
   vpc_security_group_ids = var.sg_ids # manadatory
