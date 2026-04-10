@@ -26,5 +26,5 @@ variable "sg_ids" {
 # optional
 variable "tags" {
   type = map
-  default = {} # ila pedithe idhi optinal ani meaning
+  default = {} # ila pedithe idhi optinal ani meaning9
 }
