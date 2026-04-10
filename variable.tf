@@ -20,7 +20,7 @@ validation {
 
 variable "sg_ids" {
   type = list
-  # so ila empty ga pedithe values update chayli must be provide
+  # so ila empty ga pedithe values update chayli must be provide while testing this module or using this module
 }
 
 # optional
